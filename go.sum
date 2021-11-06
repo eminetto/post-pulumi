@@ -144,6 +144,8 @@ github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25Kn
 github.com/eapache/go-resiliency v1.1.0/go.mod h1:kFI+JgMyC7bLPUVY133qvEBtVayf5mFgVsvEsIPBvNs=
 github.com/eapache/go-xerial-snappy v0.0.0-20180814174437-776d5712da21/go.mod h1:+020luEh2TKB4/GOp8oxxtq0Daoen/Cii55CzbTV6DU=
 github.com/eapache/queue v1.1.0/go.mod h1:6eCeP0CKFpHLu8blIFXhExK/dRa7WDZfr6jVFPTqq+I=
+github.com/eminetto/post-pulumi/iac v0.0.0-20211106154643-74fe1a43ca69 h1:L5CLCMHFzVB8cM8C6pGRy6XBQtBydQlLJbpIBnR9imE=
+github.com/eminetto/post-pulumi/iac v0.0.0-20211106154643-74fe1a43ca69/go.mod h1:Iet5WTou/o4iwDxf2jpHQNH1RieRtk9Z8zQr8kuw0Ck=
 github.com/emirpasic/gods v1.9.0/go.mod h1:YfzfFFoVP/catgzJb4IKIqXjX78Ha8FMSDh3ymbK86o=
 github.com/emirpasic/gods v1.12.0 h1:QAUIPSaCu4G+POclxeqb3F+WPpdKqFGlw36+yOzGlrg=
 github.com/emirpasic/gods v1.12.0/go.mod h1:YfzfFFoVP/catgzJb4IKIqXjX78Ha8FMSDh3ymbK86o=
@@ -432,6 +434,8 @@ github.com/pulumi/pulumi v1.12.2-0.20200313203005-b6e5d2737d4f h1:f0pzTEdmdyKdvg
 github.com/pulumi/pulumi v1.12.2-0.20200313203005-b6e5d2737d4f/go.mod h1:wem+vUldHRqBV0Q7+yHmQfjYFfVslMCtWW60yqmo9Ag=
 github.com/pulumi/pulumi-aws/sdk/v4 v4.25.0 h1:wIZtuNC9+S0r2KPo+2die6ajQLw/kPa8xlEiyUzN+eE=
 github.com/pulumi/pulumi-aws/sdk/v4 v4.25.0/go.mod h1:cmji+08wmrwoWheCupYXaBQSLeibCNr4zXaqS6iYAys=
+github.com/pulumi/pulumi-aws/sdk/v4 v4.26.0 h1:1yfVFXITmtnlCfbjsEBrEDgHf3qBEdmDHNiBJ/cef1A=
+github.com/pulumi/pulumi-aws/sdk/v4 v4.26.0/go.mod h1:cmji+08wmrwoWheCupYXaBQSLeibCNr4zXaqS6iYAys=
 github.com/pulumi/pulumi-docker v1.5.0 h1:Wg94ooWKcOpI2A+rsbuEtD2i+o5IGeZY1e9sdhqeDKk=
 github.com/pulumi/pulumi-docker v1.5.0/go.mod h1:98n4+dSnNU2sGK+7HbWhQgb+KF4uFavUuSezCYNRCrw=
 github.com/pulumi/pulumi-docker/sdk/v3 v3.1.0 h1:eba1cKq5LSjCF9f96gvMtjIbZdzwJfM0xG+/vzFDsF0=
